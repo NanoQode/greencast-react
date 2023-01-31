@@ -11,8 +11,8 @@ const Footer = () => {
       </div>
       <section className="flex col-span-2 flex-col my-10">
         <div className="text-[#777777]">
-          <p>+1 (123) 456-78-90</p>
-          <p>+1 (123) 456-78-90</p>
+          <p>Local: +1 (905) 459 9384</p>
+          <p>Toll Free:+1 (888) 350 0202</p>
           <p>info@gmail.com</p>
           <p>Canada, Vancouver British Columbia, 606 Broadway W</p>
         </div>
