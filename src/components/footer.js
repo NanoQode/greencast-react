@@ -67,7 +67,7 @@ const Footer = () => {
           </p>
         </div>
         <div>
-          <p>Copyright © 2022 All rights reserved.</p>
+          <p>Copyright © 2023 All rights reserved.</p>
         </div>
       </section>
     </div>
